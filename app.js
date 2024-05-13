@@ -1,4 +1,4 @@
-const API_URL = 'https:api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=2dff034ece8f33fb53f31c54675fc019&page=1';
+const API_URL2 = 'https:api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=2dff034ece8f33fb53f31c54675fc019&page=1';
 
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
 
@@ -19,7 +19,7 @@ async function getMovies(url) {
     showMovies(data.results);
 
 }
-getMovies(API_URL)
+getMovies(API_URL2)
 form.addEventListener("submit", (e)=>{
     e.preventDefault()
 
