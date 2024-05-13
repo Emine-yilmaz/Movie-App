@@ -1,8 +1,10 @@
-const SECOND_API_URL2 = 'https:api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=2dff034ece8f33fb53f31c54675fc019&page=1';
+// const SECOND_API_URL2 = 'https:api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=2dff034ece8f33fb53f31c54675fc019&page=1';
 
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
 
 const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=2dff034ece8f33fb53f31c54675fc019&query="';
+
+const SECOND_API_URL2 = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=2dff034ece8f33fb53f31c54675fc019&page=1';
 
 
 const form = document.getElementById('form')
