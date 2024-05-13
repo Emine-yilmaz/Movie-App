@@ -6,7 +6,7 @@ In this project, I created a movie website using html, css and javascript and AP
 -JAVASCRIPT
 
 ## website link
-(starsfilms.netlify.app)
+(https://starsfilms.netlify.app)
 ## Screen
 ![](./images/movieapp.png)
 
